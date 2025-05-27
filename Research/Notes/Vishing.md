@@ -1,0 +1,1 @@
+A type of [[Phishing]] that involves using a voice call. Scammers may impersonate a government agency or company to coerce people to take shady action or reveal confidential information.

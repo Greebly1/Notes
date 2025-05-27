@@ -1,0 +1,1 @@
+A dictionary attack is a brute force password cracking attack, whereby an attacker tries a giant database of most common passwords, phrases, etc against a username.

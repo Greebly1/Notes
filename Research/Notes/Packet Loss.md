@@ -1,0 +1,1 @@
+When a message sent over the internet fails to reach its' destination

@@ -1,0 +1,5 @@
+![[Windows10Editions.png]]
+# Home![[Windows 10 Home]]
+# Pro![[Windows 10 Pro]]
+# Pro Workstation ![[Windows 10 Pro Workstation]]
+# Enterprise![[Windows 10 Enterprise]]

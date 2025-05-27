@@ -1,0 +1,1 @@
+Instead of using a single 56 bit key, security admins compounded the [[DES]] encryption 3 times. This made the key much much harder to crack again, but made things a lot slower.

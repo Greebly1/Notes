@@ -1,0 +1,7 @@
+- hibernate
+- power plans
+- sleep/suspend
+- standby
+- closing laptop lid behavior
+- turn on fast startup
+- usb selective suspend

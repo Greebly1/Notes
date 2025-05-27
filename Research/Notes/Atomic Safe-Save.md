@@ -1,0 +1,2 @@
+Instead of writing micro data to a file to change it from one form to another, a temporary copy of that file is made and given a slightly different name and hidden from the file explorer.
+Changes to the original file are saved to this temporary location. When it is time to write the full change, instead of writing to that file location, a name change is performed and the original data is discarded.

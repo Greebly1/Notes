@@ -1,0 +1,1 @@
+Flash ROM is a type of ROM that can be erased and reprogrammed electrically in blocks. It's widely used in various applications, including storage devices and [[Firmware]] in devices

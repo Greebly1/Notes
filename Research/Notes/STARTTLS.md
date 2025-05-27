@@ -1,0 +1,1 @@
+A command used by [[Email Protocols]] to upgrade an insecure connection to a secure one using [[TLS]]

@@ -1,0 +1,1 @@
+A stripped down version of [[Windows XP]] for #Legacy  hardware systems, does not use NTFS

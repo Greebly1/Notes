@@ -1,0 +1,1 @@
+Consists of data [[Mirroring]] with no parity or striping.

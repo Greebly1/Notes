@@ -1,0 +1,2 @@
+Erasable Programmable ROM
+EPROM can be erased and reprogrammed by exposing the chip to ultraviolet light. This allows for more flexibility than [[PROM]] but still requires a special programming device.

@@ -1,0 +1,1 @@
+Some [[GPT]] drives may be formatted with a hybrid [[MBR]] data structure in sector 0. This still contains some boot code, and should allow legacy [[BIOS]] to boot even with the GPT drive.

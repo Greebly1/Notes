@@ -1,0 +1,1 @@
+Uses block-level [[Striping]], like [[RAID 0]], but with [[Dedicated Parity]]. Since it uses block-level striping, small reads do not need to be spread out across all disks.

@@ -1,0 +1,1 @@
+connects to an HD_AUDIO port, for built-in speakers

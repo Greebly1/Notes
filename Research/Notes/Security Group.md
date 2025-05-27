@@ -1,0 +1,1 @@
+Sort of like a OU, in Active Directory, however it is used specifically for security-related purposes. Such as [[UAC]] and admin rights in [[Active Directory]]

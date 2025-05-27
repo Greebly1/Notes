@@ -1,0 +1,1 @@
+Consists of hard drive block level memory [[Striping]].

@@ -1,0 +1,2 @@
+A distribution group is a [[Windows Group]] that is primarily used for logically grouping users together for sending mass [[Email]]s and the like.
+	It is much easier to email a group that contains 10 people, than to email 10 people

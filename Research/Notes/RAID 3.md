@@ -1,0 +1,1 @@
+Consists of byte-level [[Striping]] with [[Parity]]

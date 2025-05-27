@@ -1,0 +1,1 @@
+[[VGA]] is also ubiquitous with the [[Resolution Standards]] 640x480

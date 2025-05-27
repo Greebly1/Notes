@@ -1,0 +1,1 @@
+activity light on case that blinks whenever hard drive memory is accessed
